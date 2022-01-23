@@ -1,0 +1,4 @@
+5 rock
+5 sand
+5 pebbles
+5 gravel
